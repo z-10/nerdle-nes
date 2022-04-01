@@ -1,0 +1,5 @@
+bin/
+obj/
+words/
+words_db/
+dbg.txt
